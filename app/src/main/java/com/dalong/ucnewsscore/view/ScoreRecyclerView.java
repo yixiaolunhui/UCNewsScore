@@ -455,7 +455,7 @@ public class ScoreRecyclerView extends RecyclerView {
     private void drawCenterView(Canvas canvas) {
         //绘制一个聚焦区域
         if(pading==0) {
-            pading = dipToPX(getContext(), 2);
+            pading = dipToPX(getContext(), 0);
         }
         int height=getMeasuredHeight();
         int width=getMeasuredWidth();

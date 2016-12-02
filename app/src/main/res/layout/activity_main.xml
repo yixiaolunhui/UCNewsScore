@@ -36,6 +36,7 @@
         android:layout_marginTop="30dp"
         android:layout_below="@+id/img_bg"
         android:layout_width="match_parent"
+        android:background="#FCFCFC"
         android:layout_height="wrap_content"
         android:clipChildren="false"/>
 
