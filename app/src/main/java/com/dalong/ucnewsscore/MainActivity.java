@@ -16,7 +16,9 @@ import com.zhy.adapter.recyclerview.base.ViewHolder;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+**
+/
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ScoreRecyclerView mScoreRecyclerView;
